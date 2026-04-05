@@ -69,6 +69,6 @@ SpamSpotAI/
 
 ## 👨‍💻 Author
 
-**Sujal Arora**  
+**Sanvi Soneji**  
 B.Tech CSE | SRM Institute of Science and Technology  
 GitHub: https://github.com/sujalarora17
