@@ -71,4 +71,4 @@ SpamSpotAI/
 
 **Sanvi Soneji**  
 B.Tech CSE | SRM Institute of Science and Technology  
-GitHub: https://github.com/sujalarora17
+GitHub: https://github.com/SanviSoneji
